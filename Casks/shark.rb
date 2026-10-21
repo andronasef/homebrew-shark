@@ -1,6 +1,6 @@
 cask "shark" do
   version "1.0.0-alpha"
-  sha256 :no_check
+  sha256 "cf893fe8d2549a601912e1eb96fd9073199fefe3928a28070443ef7c2bbcaf5e"
 
   url "https://github.com/andronasef/shark/releases/download/v#{version}/Shark-#{version}.zip"
   name "Shark"
