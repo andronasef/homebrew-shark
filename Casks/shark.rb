@@ -1,8 +1,8 @@
 cask "shark" do
-  version "1.0.0-alpha"
-  sha256 "cf893fe8d2549a601912e1eb96fd9073199fefe3928a28070443ef7c2bbcaf5e"
+  version "1.0.0-alpha.1"
+  sha256 "65c86594ae9e07d66245e0ee93054418b009d5903ec77a8b162f1f43250f3a04"
 
-  url "https://github.com/andronasef/shark/releases/download/v#{version}/Shark-#{version}.zip"
+  url "https://github.com/andronasef/shark/releases/download/v#{version}/Shark-#{version}.dmg"
   name "Shark"
   desc "Native Mac file manager for people who live in folders"
   homepage "https://github.com/andronasef/shark"
